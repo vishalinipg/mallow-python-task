@@ -1,0 +1,4 @@
+[2026-06-11 10:39:14.522807]: Transaction Type: deposit, Account Number: 9554046419006156, Amount: 1000.0
+[2026-06-11 10:40:32.410277]: Transaction Type: withdraw, Account Number: 9554046419006156, Amount: 500.0
+[2026-06-11 10:44:16.887697]: Transaction Type: deposit, Account Number: 9554046419006156, Amount: 100000.0
+[2026-06-11 10:44:37.259845]: Transaction Type: withdraw, Account Number: 9554046419006156, Amount: 60000.0
